@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570324837067",
+    "project_id": "evaluacionnacional-b75f2",
+    "storage_bucket": "evaluacionnacional-b75f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570324837067:android:09f7340593953ec14a314e",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionnacional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQrSSvdUrg787rchP2V2nnC2cNC6WeSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
